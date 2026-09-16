@@ -2,8 +2,8 @@
 
 ## SAERICDO
 
-  ·Llista
-  ·De
-  ·Items
+  *  Llista
+  *  De
+  *  Items
 
 #### 4
